@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [1.12.0] 2024-11-22
+* Enabled PHP `8.3` support in `composer.json`
+
 ## [1.11.0] 2023-11-06
 * Enabled PHP `8.1` and `8.2` support in `composer.json`
 
